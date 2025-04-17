@@ -1,5 +1,5 @@
 <p>
-   <img src="https://media.licdn.com/dms/image/D4D16AQFYjfBYrAskvg/profile-displaybackgroundimage-shrink_350_1400/0/1719711765256?e=1725494400&v=beta&t=V_GiRasUoT64p_yJfuVGkS0kroWGILgZ0nSPXK5oFAc" alt="Banner" border="0" width="100%">
+   <img src="https://raw.githubusercontent.com/GBergue/GBergue/refs/heads/main/BannerGitHub.png" alt="Banner" border="0" width="1000">
 </p>
 
 ## 👨🏻‍💻 A little bit about me
